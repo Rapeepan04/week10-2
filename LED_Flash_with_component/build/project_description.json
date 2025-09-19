@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "LED_Flash_with_component",
-    "project_version":    "fb7dce3-dirty",
+    "project_version":    "98a3f0a-dirty",
     "project_path":       "D:/github/week10-2/LED_Flash_with_component",
     "idf_path":           "C:/Users/rapee/esp/v5.5.1/esp-idf",
     "build_dir":          "D:/github/week10-2/LED_Flash_with_component/build",
