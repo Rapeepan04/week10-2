@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: 7da3b8ddcb7a97e37f0ffdd5a3c28679f53b2c09b3c16257fd000bc15c049983
+    dependencies: []
+    source:
+      git: https://github.com/Rapeepan04/week10-1.git
+      path: 66030158/LED
+      type: git
+    version: 6bacb505b5b840827c6032e83e49520e7494758f
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: 59fbcd6d63a3bc2b35a2deb479c45c1448fbc36a43fad7828629d2f5ff03c113
+target: esp32
+version: 2.0.0
